@@ -1,0 +1,3 @@
+PROJECT TITLE: JClock
+VERSION: 1.0
+AUTHOR: William Chern

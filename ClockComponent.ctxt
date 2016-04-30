@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=g2
+comment2.target=void\ drawClockFace(java.awt.Graphics2D)
+comment3.params=g2\ h\ m\ s\ ms
+comment3.target=void\ drawClockHands(java.awt.Graphics2D,\ int,\ int,\ int,\ int)
+comment4.params=g2
+comment4.target=void\ drawTickMarksOnClockFace_Chech(java.awt.Graphics2D)
+comment5.params=hr\ min
+comment5.target=double\ getHourRadians(int,\ int)
+comment6.params=min\ sec
+comment6.target=double\ getMinuteRadians(int,\ int)
+comment7.params=sec\ milliSec
+comment7.target=double\ getSecondRadians(int,\ int)
+comment8.params=g2
+comment8.target=void\ drawNumbersOnClockFace_HW(java.awt.Graphics2D)
+comment9.params=g2
+comment9.target=void\ drawNumbersOnClockFace_Class(java.awt.Graphics2D)
+numComments=10
